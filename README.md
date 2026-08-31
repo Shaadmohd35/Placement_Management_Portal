@@ -1,7 +1,7 @@
 
 # Placement Management Portal
 
-A modern, responsive dashboard web application built with React, Vite, TypeScript, and shadcn/ui.
+A modern, responsive dashboard web application built with React, Vite, TypeScript, and db schema.
 
 ## Features
 
